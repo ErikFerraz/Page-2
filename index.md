@@ -31,7 +31,7 @@
     </header>
     
     
-  <img src="https://www.oneit.com.br/wp-content/uploads/2020/01/computacao-em-nuvem.jpg" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXysXdxZ4_tlqp98MpjDfcv--9H6ZzWDepA&usqp=CAU" />
      
       
   <a href="https://google.com.br/"><h1>Exemplo de Serviços</h1></a>
